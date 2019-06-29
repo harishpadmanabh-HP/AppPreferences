@@ -1,0 +1,738 @@
+{
+"items": [
+{
+"tags": [
+"php",
+"laravel",
+".htaccess",
+"laravel-5.8"
+],
+"owner": {
+"reputation": 1,
+"user_id": 10201313,
+"user_type": "registered",
+"profile_image": "https://lh5.googleusercontent.com/-9ozor4iakoQ/AAAAAAAAAAI/AAAAAAAAAAA/U8qIFGEXnd0/photo.jpg?sz=128",
+"display_name": "Shahrooz Yousefi Pour",
+"link": "https://stackoverflow.com/users/10201313/shahrooz-yousefi-pour"
+},
+"is_answered": false,
+"view_count": 2,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822512,
+"creation_date": 1561822512,
+"question_id": 56818781,
+"link": "https://stackoverflow.com/questions/56818781/is-there-a-way-if-someone-accesses-a-folder-in-my-laravel-project-i-redirect-t",
+"title": "Is there a way, if someone accesses a folder in my laravel project, I redirect them to my homepage?"
+},
+{
+"tags": [
+"pandas"
+],
+"owner": {
+"reputation": 8,
+"user_id": 11573289,
+"user_type": "registered",
+"profile_image": "https://lh4.googleusercontent.com/-Sok0Qnf_5Fw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reyJmCOZF4LeWwHjZb-k6AiJ9gInw/mo/photo.jpg?sz=128",
+"display_name": "Luca Consorte",
+"link": "https://stackoverflow.com/users/11573289/luca-consorte"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822490,
+"creation_date": 1561822490,
+"question_id": 56818779,
+"link": "https://stackoverflow.com/questions/56818779/how-to-access-pandas-pivot-table-data",
+"title": "How to access Pandas pivot-table data"
+},
+{
+"tags": [
+"c#",
+"unity3d",
+"math",
+"floating-point",
+"rounding"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11250933,
+"user_type": "registered",
+"profile_image": "https://graph.facebook.com/331129104427074/picture?type=large",
+"display_name": "Jalal Gurbanov",
+"link": "https://stackoverflow.com/users/11250933/jalal-gurbanov"
+},
+"is_answered": false,
+"view_count": 6,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822472,
+"creation_date": 1561822472,
+"question_id": 56818775,
+"link": "https://stackoverflow.com/questions/56818775/rounding-float-number-in-certain-pattern-in-c",
+"title": "Rounding float number in certain pattern in C#"
+},
+{
+"tags": [
+"angular",
+"typescript",
+"rxjs",
+"behaviorsubject",
+"angular8"
+],
+"owner": {
+"reputation": 536,
+"user_id": 2711071,
+"user_type": "registered",
+"accept_rate": 69,
+"profile_image": "https://www.gravatar.com/avatar/eb4f74eab7ebf483efaa9de0371cb5f8?s=128&d=identicon&r=PG&f=1",
+"display_name": "lampshade",
+"link": "https://stackoverflow.com/users/2711071/lampshade"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822469,
+"creation_date": 1561822469,
+"question_id": 56818773,
+"link": "https://stackoverflow.com/questions/56818773/how-to-build-a-service-that-gets-values-async-but-also-perfomes-tasks-on-that-da",
+"title": "How to build a service that gets values async but also perfomes tasks on that data, like filtering?"
+},
+{
+"tags": [
+"javascript",
+"android",
+"addeventlistener"
+],
+"owner": {
+"reputation": 6078,
+"user_id": 937440,
+"user_type": "registered",
+"accept_rate": 54,
+"profile_image": "https://www.gravatar.com/avatar/5ba5f9ad02a9ab43d4664d17747a1230?s=128&d=identicon&r=PG",
+"display_name": "w0051977",
+"link": "https://stackoverflow.com/users/937440/w0051977"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822459,
+"creation_date": 1561822459,
+"question_id": 56818770,
+"link": "https://stackoverflow.com/questions/56818770/addeventlistener-does-not-work-when-browsing-on-android",
+"title": "addeventlistener does not work when browsing on Android?"
+},
+{
+"tags": [
+"scala",
+"apache-spark",
+"rdd"
+],
+"owner": {
+"reputation": 42,
+"user_id": 2468883,
+"user_type": "registered",
+"accept_rate": 80,
+"profile_image": "https://www.gravatar.com/avatar/36e62152322e680688561ee5a21712d1?s=128&d=identicon&r=PG",
+"display_name": "abhi8569",
+"link": "https://stackoverflow.com/users/2468883/abhi8569"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822403,
+"creation_date": 1561822403,
+"question_id": 56818767,
+"link": "https://stackoverflow.com/questions/56818767/determining-enabling-parallelism-in-spark",
+"title": "Determining/enabling parallelism in spark"
+},
+{
+"tags": [
+"css",
+"flexbox",
+"flex-grow",
+"space-between"
+],
+"owner": {
+"reputation": 2353,
+"user_id": 6240567,
+"user_type": "registered",
+"accept_rate": 56,
+"profile_image": "https://www.gravatar.com/avatar/654a8cca486758a5db347b9db603eb41?s=128&d=identicon&r=PG",
+"display_name": "Geoff James",
+"link": "https://stackoverflow.com/users/6240567/geoff-james"
+},
+"is_answered": false,
+"view_count": 8,
+"answer_count": 0,
+"score": -2,
+"last_activity_date": 1561822357,
+"creation_date": 1561822357,
+"question_id": 56818762,
+"link": "https://stackoverflow.com/questions/56818762/are-there-any-benefits-between-using-space-between-or-flex-grow",
+"title": "Are there any benefits between using space-between or flex-grow?"
+},
+{
+"tags": [
+"ansible",
+"ansible-2.x"
+],
+"owner": {
+"reputation": 3,
+"user_id": 11063919,
+"user_type": "registered",
+"profile_image": "https://lh3.googleusercontent.com/-Sjz3dtvxrIw/AAAAAAAAAAI/AAAAAAAAAik/2e60u_tHvPY/photo.jpg?sz=128",
+"display_name": "Florian Mozart",
+"link": "https://stackoverflow.com/users/11063919/florian-mozart"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822341,
+"creation_date": 1561822341,
+"question_id": 56818760,
+"link": "https://stackoverflow.com/questions/56818760/how-to-avoid-escalation-succeeded-when-serving-my-project",
+"title": "How to avoid &#39;Escalation succeeded&#39; when serving my project?"
+},
+{
+"tags": [
+"php",
+"symfony",
+"symfony4"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11717736,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/b4bec23867e4003c0f80dbc81ff40f59?s=128&d=identicon&r=PG&f=1",
+"display_name": "yawa",
+"link": "https://stackoverflow.com/users/11717736/yawa"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822334,
+"creation_date": 1561822334,
+"question_id": 56818758,
+"link": "https://stackoverflow.com/questions/56818758/protect-a-site-from-stealing-cookies",
+"title": "Protect a site from stealing cookies"
+},
+{
+"tags": [
+"c#",
+"operator-keyword"
+],
+"owner": {
+"reputation": 128,
+"user_id": 10693879,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/e18f27296449756173288cf762714f09?s=128&d=identicon&r=PG&f=1",
+"display_name": "Sabbir",
+"link": "https://stackoverflow.com/users/10693879/sabbir"
+},
+"is_answered": false,
+"view_count": 6,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822328,
+"creation_date": 1561822328,
+"question_id": 56818757,
+"link": "https://stackoverflow.com/questions/56818757/remove-the-or-operator-but-it-still-to-give-the-same-output",
+"title": "Remove the OR operator but it still to give the same output"
+},
+{
+"tags": [
+"amazon-ec2",
+"request",
+"latency"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11570038,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/3aceea17f00b42379e62ccf71aff2d04?s=128&d=identicon&r=PG&f=1",
+"display_name": "shaoleen00",
+"link": "https://stackoverflow.com/users/11570038/shaoleen00"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822301,
+"creation_date": 1561822301,
+"question_id": 56818755,
+"link": "https://stackoverflow.com/questions/56818755/traceroute-public-ip-decrease-latency",
+"title": "Traceroute public ip decrease latency"
+},
+{
+"tags": [
+"jquery",
+"html"
+],
+"owner": {
+"reputation": 8,
+"user_id": 11414852,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/fc27acd776f8a54b5f1c039cd2c9c989?s=128&d=identicon&r=PG&f=1",
+"display_name": "aleksandra",
+"link": "https://stackoverflow.com/users/11414852/aleksandra"
+},
+"is_answered": false,
+"view_count": 2,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822277,
+"creation_date": 1561822277,
+"question_id": 56818754,
+"link": "https://stackoverflow.com/questions/56818754/jquery-val-function-doesnt-detect-zero",
+"title": "jQuery .val() function doesn&#39;t detect zero"
+},
+{
+"tags": [
+"pandas",
+"geopandas"
+],
+"owner": {
+"reputation": 9,
+"user_id": 3045134,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/fdce67b896bcc20084622665531a314f?s=128&d=identicon&r=PG",
+"display_name": "Pierre",
+"link": "https://stackoverflow.com/users/3045134/pierre"
+},
+"is_answered": false,
+"view_count": 6,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822264,
+"creation_date": 1561822264,
+"question_id": 56818753,
+"link": "https://stackoverflow.com/questions/56818753/max-value-displayed-with-describe-doesnt-match-with-max-column-value",
+"title": "Max value displayed with .describe() doesn&#39;t match with max column value"
+},
+{
+"tags": [
+"php",
+"cordova",
+"http",
+"request",
+"phonegap"
+],
+"owner": {
+"reputation": 272,
+"user_id": 3973269,
+"user_type": "registered",
+"accept_rate": 43,
+"profile_image": "https://graph.facebook.com/100001117819270/picture?type=large",
+"display_name": "Mart",
+"link": "https://stackoverflow.com/users/3973269/mart"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822243,
+"creation_date": 1561822243,
+"question_id": 56818752,
+"link": "https://stackoverflow.com/questions/56818752/php-detect-phonegap-cordova-application-http-request",
+"title": "PHP Detect phonegap / cordova application http request"
+},
+{
+"tags": [
+"javascript",
+"jquery",
+"geolocation",
+"gps",
+"coordinates"
+],
+"owner": {
+"reputation": 193,
+"user_id": 8430537,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/3c285b4e893656976425d7497a4a8c30?s=128&d=identicon&r=PG&f=1",
+"display_name": "JonTargaryen",
+"link": "https://stackoverflow.com/users/8430537/jontargaryen"
+},
+"is_answered": false,
+"view_count": 7,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822234,
+"creation_date": 1561822234,
+"question_id": 56818749,
+"link": "https://stackoverflow.com/questions/56818749/improve-geo-location-with-jquery-in-html5",
+"title": "improve geo location with jquery in html5?"
+},
+{
+"tags": [
+"flutter",
+"dart-isolates"
+],
+"owner": {
+"reputation": 367,
+"user_id": 2630919,
+"user_type": "registered",
+"accept_rate": 88,
+"profile_image": "https://www.gravatar.com/avatar/7d8421ea4fe9d124b26a4926d966d0a1?s=128&d=identicon&r=PG&f=1",
+"display_name": "ezaspi",
+"link": "https://stackoverflow.com/users/2630919/ezaspi"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822180,
+"creation_date": 1561822180,
+"question_id": 56818746,
+"link": "https://stackoverflow.com/questions/56818746/flutter-dart-calling-sqflite-function-in-isolate-causes-error",
+"title": "Flutter Dart - Calling sqflite function in Isolate causes error"
+},
+{
+"tags": [
+"angular",
+"typescript",
+"nativescript"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11574604,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/206aefbf059a632dc59ac1731afc08cc?s=128&d=identicon&r=PG&f=1",
+"display_name": "Zolder3007",
+"link": "https://stackoverflow.com/users/11574604/zolder3007"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": -1,
+"last_activity_date": 1561822171,
+"creation_date": 1561822171,
+"question_id": 56818745,
+"link": "https://stackoverflow.com/questions/56818745/how-use-slider",
+"title": "How use slider?"
+},
+{
+"tags": [
+"python-3.x",
+"selenium",
+"selenium-chromedriver"
+],
+"owner": {
+"reputation": 58,
+"user_id": 11436357,
+"user_type": "registered",
+"profile_image": "https://i.stack.imgur.com/75QQV.png?s=128&g=1",
+"display_name": "kshnkvn",
+"link": "https://stackoverflow.com/users/11436357/kshnkvn"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822146,
+"creation_date": 1561822146,
+"question_id": 56818744,
+"link": "https://stackoverflow.com/questions/56818744/how-to-enable-javascripts-in-chromedriver-selenium",
+"title": "How to enable JavaScripts in chromedriver selenium?"
+},
+{
+"tags": [
+"google-chrome",
+"firefox",
+"cmd",
+"ping"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11717726,
+"user_type": "registered",
+"profile_image": "https://graph.facebook.com/585162678677242/picture?type=large",
+"display_name": "Waverly Winters",
+"link": "https://stackoverflow.com/users/11717726/waverly-winters"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822130,
+"creation_date": 1561822130,
+"question_id": 56818743,
+"link": "https://stackoverflow.com/questions/56818743/i-can-access-some-websites-but-i-am-not-able-to-ping-any-website-in-command-prom",
+"title": "I can access some websites but i am not able to ping any website in command-prompt"
+},
+{
+"tags": [
+"mysql",
+"phpmyadmin"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11717721,
+"user_type": "registered",
+"profile_image": "https://lh5.googleusercontent.com/-cVxKaYb4Gi8/AAAAAAAAAAI/AAAAAAAAodQ/UKkf5QktMng/photo.jpg?sz=128",
+"display_name": "Mateo Krossler",
+"link": "https://stackoverflow.com/users/11717721/mateo-krossler"
+},
+"is_answered": false,
+"view_count": 5,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822121,
+"creation_date": 1561822121,
+"question_id": 56818741,
+"link": "https://stackoverflow.com/questions/56818741/will-an-event-scheduled-for-execution-every-1-month-run-every-30-days-or-on-the",
+"title": "Will an event scheduled for execution every 1 month run every 30 days or on the same day each month?"
+},
+{
+"tags": [
+"json",
+"database",
+"mongodb",
+"mongodb-query"
+],
+"owner": {
+"reputation": 5,
+"user_id": 3250488,
+"user_type": "registered",
+"profile_image": "https://lh6.googleusercontent.com/-YRAezc1wV7I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdGnul4B-C90gtFwSGya6whLC8U9Q/mo/photo.jpg?sz=128",
+"display_name": "io io",
+"link": "https://stackoverflow.com/users/3250488/io-io"
+},
+"is_answered": false,
+"view_count": 2,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822111,
+"creation_date": 1561822111,
+"question_id": 56818738,
+"link": "https://stackoverflow.com/questions/56818738/mongodb-query-on-triple-nested-array-of-object",
+"title": "Mongodb query on triple nested array of object"
+},
+{
+"tags": [
+"nginx",
+"load-balancing",
+"nginx-reverse-proxy"
+],
+"owner": {
+"reputation": 22,
+"user_id": 10804384,
+"user_type": "registered",
+"profile_image": "https://lh5.googleusercontent.com/-L8WFI-AX_4U/AAAAAAAAAAI/AAAAAAAAANQ/pWLRUP-rrEQ/photo.jpg?sz=128",
+"display_name": "sandeep krishna",
+"link": "https://stackoverflow.com/users/10804384/sandeep-krishna"
+},
+"is_answered": false,
+"view_count": 2,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822095,
+"creation_date": 1561822095,
+"question_id": 56818736,
+"link": "https://stackoverflow.com/questions/56818736/nginx-loadbalancing-for-flussonic-streaming-server",
+"title": "Nginx loadbalancing for flussonic streaming server"
+},
+{
+"tags": [
+"javascript"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11717742,
+"user_type": "registered",
+"profile_image": "https://graph.facebook.com/10203910824996434/picture?type=large",
+"display_name": "Joseph Mather",
+"link": "https://stackoverflow.com/users/11717742/joseph-mather"
+},
+"is_answered": false,
+"view_count": 6,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822090,
+"creation_date": 1561822090,
+"question_id": 56818735,
+"link": "https://stackoverflow.com/questions/56818735/enki-js-exercise",
+"title": "Enki JS Exercise"
+},
+{
+"tags": [
+"sql-server",
+"configuration",
+"biztalk"
+],
+"owner": {
+"reputation": 1,
+"user_id": 6677979,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/f797890b965f6eb5098b19114aa67217?s=128&d=identicon&r=PG&f=1",
+"display_name": "Wa&#39;el",
+"link": "https://stackoverflow.com/users/6677979/wael"
+},
+"is_answered": false,
+"view_count": 2,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822085,
+"creation_date": 1561822085,
+"question_id": 56818734,
+"link": "https://stackoverflow.com/questions/56818734/failed-to-create-sql-login-and-grant-sql-privilege-configurations-on-the-managem",
+"title": "Failed to create SQL login and grant SQL privilege configurations on the Management database server"
+},
+{
+"tags": [
+".net",
+"multithreading",
+"async-await",
+"clr"
+],
+"owner": {
+"reputation": 32,
+"user_id": 11680003,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/2075d3dcf4567b2c543da2b9c216ce8d?s=128&d=identicon&r=PG&f=1",
+"display_name": "secondimage",
+"link": "https://stackoverflow.com/users/11680003/secondimage"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561822073,
+"creation_date": 1561822073,
+"question_id": 56818733,
+"link": "https://stackoverflow.com/questions/56818733/why-the-primary-thread-disappear",
+"title": "why the primary thread disappear?"
+},
+{
+"tags": [
+"sql",
+"postgresql"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11717693,
+"user_type": "registered",
+"profile_image": "https://lh5.googleusercontent.com/-bi35OSPFFN8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdE5-uDRemldD4GgblGfAnhFBmyaw/photo.jpg?sz=128",
+"display_name": "Rafael Pinto de Freitas",
+"link": "https://stackoverflow.com/users/11717693/rafael-pinto-de-freitas"
+},
+"is_answered": false,
+"view_count": 7,
+"answer_count": 1,
+"score": 0,
+"last_activity_date": 1561822355,
+"creation_date": 1561822072,
+"question_id": 56818732,
+"link": "https://stackoverflow.com/questions/56818732/postgresql-query-not-returning-result-as-intended",
+"title": "PostgreSQL query not returning result as intended"
+},
+{
+"tags": [
+"javascript",
+"node.js",
+"mongodb",
+"mongoose"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11138912,
+"user_type": "registered",
+"profile_image": "https://lh5.googleusercontent.com/-q_jRbUr9SdI/AAAAAAAAAAI/AAAAAAAAAgU/wnCkJcPvmU8/photo.jpg?sz=128",
+"display_name": "Taiwo Gboyegun",
+"link": "https://stackoverflow.com/users/11138912/taiwo-gboyegun"
+},
+"is_answered": false,
+"view_count": 13,
+"answer_count": 0,
+"score": -2,
+"last_activity_date": 1561822005,
+"creation_date": 1561822005,
+"question_id": 56818726,
+"link": "https://stackoverflow.com/questions/56818726/typeerror-cannot-read-property-car-of-null",
+"title": "TypeError: Cannot read property &#39;car&#39; of null"
+},
+{
+"tags": [
+"nginx",
+"mod-security",
+"waf"
+],
+"owner": {
+"reputation": 1,
+"user_id": 11717672,
+"user_type": "registered",
+"profile_image": "https://lh5.googleusercontent.com/-CBrpvpFJftg/AAAAAAAAAAI/AAAAAAAAAFs/Vb1Zmg4T5A0/photo.jpg?sz=128",
+"display_name": "feng wang",
+"link": "https://stackoverflow.com/users/11717672/feng-wang"
+},
+"is_answered": false,
+"view_count": 4,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561821956,
+"creation_date": 1561821956,
+"question_id": 56818721,
+"link": "https://stackoverflow.com/questions/56818721/how-to-match-http-request-in-audit-log-of-modsecurity-with-that-in-nginx-access",
+"title": "How to match http request in audit log of modsecurity with that in nginx access log?"
+},
+{
+"tags": [
+"python",
+"r",
+"machine-learning",
+"deep-learning"
+],
+"owner": {
+"reputation": 1,
+"user_id": 9098717,
+"user_type": "registered",
+"profile_image": "https://lh3.googleusercontent.com/-jQ8lePflQHk/AAAAAAAAAAI/AAAAAAAAAGg/W5jq5AwDjpw/photo.jpg?sz=128",
+"display_name": "Apurba Shil",
+"link": "https://stackoverflow.com/users/9098717/apurba-shil"
+},
+"is_answered": false,
+"view_count": 8,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561821948,
+"creation_date": 1561821948,
+"question_id": 56818719,
+"link": "https://stackoverflow.com/questions/56818719/getting-error-to-fit-a-conv1d-to-classify-diabetic-patients-using-the-pima-india",
+"title": "Getting error to fit a Conv1d to classify diabetic patients using the Pima Indian diabetes data set using keras in R"
+},
+{
+"tags": [
+"c#",
+"unity3d",
+"build"
+],
+"owner": {
+"reputation": 8,
+"user_id": 11686752,
+"user_type": "registered",
+"profile_image": "https://www.gravatar.com/avatar/6ba1b99a3014dd7bf1179e6af56fe3aa?s=128&d=identicon&r=PG&f=1",
+"display_name": "Argo2007",
+"link": "https://stackoverflow.com/users/11686752/argo2007"
+},
+"is_answered": false,
+"view_count": 3,
+"answer_count": 0,
+"score": 0,
+"last_activity_date": 1561821922,
+"creation_date": 1561821922,
+"question_id": 56818715,
+"link": "https://stackoverflow.com/questions/56818715/porblem-with-game-once-builded",
+"title": "Porblem with game once builded"
+}
+],
+"has_more": true,
+"quota_max": 300,
+"quota_remaining": 259,
+"originalAPIurl":"https://api.stackexchange.com/2.2/questions?order=desc&sort=creation&site=stackoverflow&filter=default"
+}
